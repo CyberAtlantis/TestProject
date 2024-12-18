@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/HealthComponent.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/FirstPerson/HealthComponent.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/FirstPerson/Blueprints/HealthComponent.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/FirstPerson/Blueprints/IDamageable.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/FirstPerson/Blueprints/BPI_Damageable.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/W2/S37MT1MVOUFQNH8KQK80B9.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CA/L73F6PRWKJWJOESNKFFK7P.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YS/ADLM89FQ2DVVYUUTD62JID.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/U2/PNE6RM2MXIH5HCS8P3EJVM.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/AW/2TDV2X1AWMP9JDAKDJZVYS.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/ZX/5LTQXLI01HW8CHUZJQH2AU.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HM/YNYXN6LBWHPTH89FV8PX5T.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/B4/R7D7Z588C3W88F2595KKSY.uasset",
+				"C:/Users/balaz/OneDrive/Dokumenty/Unreal Projects/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/IM411XRCOHM3JDDY6P56BL.uasset"
+			]
+		}
+	]
+}
